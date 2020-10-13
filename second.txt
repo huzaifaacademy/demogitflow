@@ -1,3 +1,5 @@
 This is second file
 
 New changes
+
+New changes in second.txt
